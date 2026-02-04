@@ -1,3 +1,8 @@
 Linea base del proyecto
+<<<<<<< HEAD
 primer cambio rama 001
 segundo cambio rama 001
+=======
+primer cambio rama 002
+segundo cambio rama 002
+>>>>>>> fac/i20233tn058-002
